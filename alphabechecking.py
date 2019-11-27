@@ -4,7 +4,7 @@ if b>=65 and b<=97:
     if a=='a' or a=='e'or a=='i'or a=='o'or a=='u':
         print('the alphabet is an vowel and is a small letter')
     else:
-        print('yhe letter is an constanant and a small letter')
+        print('the letter is an constanant and a small letter')
 
 
 else:
